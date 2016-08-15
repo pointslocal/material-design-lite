@@ -214,8 +214,6 @@
     }
 
     @media screen and (min-width: $layout-screen-size-threshold + 1px) {
-      line-height: $layout-header-desktop-row-height;
-
       .mdl-layout--no-desktop-drawer-button &,
       .mdl-layout--fixed-drawer > &,
       .mdl-layout--no-drawer-button & {
